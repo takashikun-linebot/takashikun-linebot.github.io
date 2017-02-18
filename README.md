@@ -19,7 +19,7 @@
 
 たかしくんの分かる範囲で教えてくれます。
 
-
+![enter image description here](https://lh3.googleusercontent.com/8XzN-Vrnn0yuz6AVoYUbMWwXB7Zprs2gcyNK2kQr2XgxUiOpBbBlmWVXthjSr9VR4dWxncgB-ISan_qvgj_Due98X0wvTVX7JDVIcIia7CIasgkHmLY0DbaAPnWDuuyjQpW8CQQ=w300-h562-no)
 
 
 
