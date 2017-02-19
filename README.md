@@ -13,6 +13,10 @@
 以下のQRコードをLINEアプリで読み取って、友達登録してください。
 ![enter image description here](https://lh3.googleusercontent.com/fx0vGtzSTJA7AFl3iMJ3EdMYbCRm5WP3XuVxsY06R8E-eOWW_gRSOZ1RAQpA8U_ZLKOrfn6hD7XW6FzNLTyyyEU69q_sllDnoKi6PmzOm1h1wIz_HRLjzZSVbPaVCAlsBa332VY=s360-no)
 
+[友だち追加](https://line.me/R/ti/p/%40rfy7426f)  ← スマホはこっちからかな？
+
+
+
 名古屋大好きの、たかしくんが、名古屋弁でいろんなこと教えてくれます。
 
 聞きたいことを、どんどん聞いてください。
