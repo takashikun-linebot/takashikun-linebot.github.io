@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>おしえて！たかしくん | Lineで名古屋を教えてくれるBot</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <style>body{-webkit-text-size-adjust:100%;}</style>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+
+  <style>
+    .balloon {
+      position: relative;
+      background: #e8ecfa;
+      border: 1px solid #d5d9e6;
+      padding: .5rem;
+      font-size: 14px;
+      color: black;
+    }
+    .balloon:after, .balloon:before {
+      bottom: 100%;
+      left: 90%;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      position: absolute;
+      pointer-events: none;
+    }
+    .balloon:after {
+      border-color: rgba(232, 236, 250, 0);
+      border-bottom-color: #e8ecfa;
+      border-width: 15px;
+      margin-left: -15px;
+    }
+    .balloon:before {
+      border-color: rgba(213, 217, 230, 0);
+      border-bottom-color: #d5d9e6;
+      border-width: 17px;
+      margin-left: -17px;
+    }
+    .container {
+      max-width: 768px!important;
+      margin: auto!important;
+    }
+    .section {
+      padding-left: .5rem;
+      padding-right: .5rem;
+    }
+    img {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container is-fluid">
+    <div class="header">
+      <div class="image is-4by3">
+        <img src="https://lh3.googleusercontent.com/UK-vfxLpSagRcIJWThE4KzxNjR2UgQ5xgtqsUStgCW-b7TNBhU73fLFIcrDL8gc3Jn5fZGm1UXaoZPpgAAc4C1YB1tFYjSSdDpbJFsNrZCTYth6yCz4a3j99qKiAtR81NROmidM" alt="おしえて！たかしくん" >
+      </div>
+    </div>
+  </div>
+  <div class="container is-fluid">
+    <div class="has-text-centered balloon">おみゃあさん、何が知りたいんかのぉ？<br>わしゃぁ、名古屋を愛しとるでよ、いろいろ聞いてちょお！</div>
+  </div>
+
+  <section class="section">
+  <div class="container">
+    <div class="has-text-centered box content">
+      <h1 class="title is-4">「おしえて！たかしくん」とは</h1>
+      <p>「おしえて！たかしくん」は、LINE BOTです。</p>
+      <p class="is-hidden-touch">
+        以下のQRコードをLINEアプリで読み取って、友達登録してください。<br>
+        <img src="https://lh3.googleusercontent.com/fx0vGtzSTJA7AFl3iMJ3EdMYbCRm5WP3XuVxsY06R8E-eOWW_gRSOZ1RAQpA8U_ZLKOrfn6hD7XW6FzNLTyyyEU69q_sllDnoKi6PmzOm1h1wIz_HRLjzZSVbPaVCAlsBa332VY=s360-no" alt="友達追加QR">
+      </p>
+      <p class="is-hidden-desktop">
+        以下のボタンから、友達登録してください。<br>
+        <a href="https://line.me/R/ti/p/%40rfy7426f" class="button is-success is-large">LINEの友だちに追加</a>
+      </p>
+      <p>
+      名古屋大好きのたかしくんが、名古屋弁でいろんなこと教えてくれます。<br>
+      聞きたいことを、どんどん聞いてください。たかしくんの分かる範囲で教えてくれます。<br>
+      </p>
+      <img src="https://lh3.googleusercontent.com/8XzN-Vrnn0yuz6AVoYUbMWwXB7Zprs2gcyNK2kQr2XgxUiOpBbBlmWVXthjSr9VR4dWxncgB-ISan_qvgj_Due98X0wvTVX7JDVIcIia7CIasgkHmLY0DbaAPnWDuuyjQpW8CQQ=w300-h562-no" alt="スクリーンショット">
+    </div>
+  </div>
+  </section>
+
+  <div class="footer">
+   <div class="container">
+      <div class="content has-text-centered">
+        <p class="copyright">&copy;おしえて！たかしくん 制作チーム</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
